@@ -95,19 +95,11 @@ Here are some planned features or ideas you can implement:
 For questions, suggestions, or collaboration:
 
 **John Doe**
-📧 Email: [johndoe@example.com](mailto:johndoe@example.com)
-🐦 Twitter: [@john\_doe](https://twitter.com/john_doe)
-🌐 Website: [https://johndoe.dev](https://johndoe.dev)
-💼 LinkedIn: [https://linkedin.com/in/johndoe](https://linkedin.com/in/johndoe)
+📧 Email: [johndoe@example.com](mailto:shreyashsonkar123@gmail.com)
+💼 LinkedIn: [https://linkedin.com/in/johndoe](https://linkedin.com/in/shreyash-sonkar19/)
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-Feel free to use, modify, and share with attribution.
-
----
 
 ## 🙌 Acknowledgments
 
