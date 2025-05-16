@@ -93,10 +93,9 @@ Here are some planned features or ideas you can implement:
 ## 📫 Contact
 
 For questions, suggestions, or collaboration:
-
-**John Doe**
-📧 Email: [johndoe@example.com](mailto:shreyashsonkar123@gmail.com)
-💼 LinkedIn: [https://linkedin.com/in/johndoe](https://linkedin.com/in/shreyash-sonkar19/)
+Shreyash Sonkar
+📧 Email: [shreyashsonkar123@gmail.com](mailto:shreyashsonkar123@gmail.com)
+💼 LinkedIn: [https://linkedin.com/in/shreyash-sonkar19/](https://linkedin.com/in/shreyash-sonkar19/)
 
 ---
 
